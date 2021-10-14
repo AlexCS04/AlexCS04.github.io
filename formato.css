@@ -1,5 +1,5 @@
 h1 {color: blue;}
 #color1 {color: red;}
 .color2 {color: green;}
-p {background-color: purple;}
-#div1 .lol b {color: yellow; background-color: rgb(92, 3, 18);}
+p {background-color: rgb(92, 3, 18);}
+#div1 .lol b {color: yellow; background-color: purple;}
